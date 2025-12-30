@@ -11,7 +11,7 @@ const sections: Section[] = [
   { id: "cine", title: "CINE", subtitle: "Festivales, alfombras rojas y entrevistas.", bg: "/sections/cine.jpg" },
   { id: "musica", title: "MÚSICA", subtitle: "Directos, backstage y cultura.", bg: "/sections/musica.jpg" },
   { id: "deportes", title: "DEPORTES", subtitle: "Coberturas, análisis y eventos.", bg: "/sections/deportes.jpg" },
-  { id: "nosotros", title: "NOSOTROS", subtitle: "Quiénes somos y qué hacemos.", bg: "/public/nosotros.jpg" },
+  { id: "nosotros", title: "NOSOTROS", subtitle: "Quiénes somos y qué hacemos.", bg: "/nosotros.jpg" },
   { id: "moda", title: "MODA", subtitle: "Looks, tendencias y escena.", bg: "/sections/moda.jpg" },
   { id: "entrevistas", title: "ENTREVISTAS", subtitle: "Conversaciones cortas y directas.", bg: "/sections/entrevistas.jpg" },
 ];
